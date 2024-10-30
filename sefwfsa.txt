@@ -6,5 +6,5 @@ rm
 r,ikut
 f ,u
 dtumk
-mu
+muaqs
 ]
